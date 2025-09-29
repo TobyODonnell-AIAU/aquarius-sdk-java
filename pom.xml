@@ -49,15 +49,6 @@
     <revision>1.0.0-SNAPSHOT</revision>
   </properties>
 
-  <distributionManagement>
-    <!-- We aren't publishing anything to a GitHub Pages site yet -->
-    <site>
-      <id>sites</id>
-      <name>aquarius-sdk-java Site</name>
-      <url>https://AquaticInformatics.github.io/aquarius-sdk-java/</url>
-    </site>
-  </distributionManagement>
-
   <dependencies>
     <dependency>
       <groupId>net.servicestack</groupId>
